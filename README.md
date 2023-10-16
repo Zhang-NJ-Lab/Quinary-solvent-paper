@@ -1,6 +1,6 @@
 # File Description
 
-Codes and dataset for "Accelerated Multisolvent Prediction for Aqueous Stable Halide Perovskite Materials Yiru Huang, Shenyue Li, and Lei Zhang* Cite this: ACS Appl. Mater. Interfaces 2023, XXXX, XXX, XXX-XXX Publication Date:October 9, 2023 https://doi.org/10.1021/acsami.3c09507 "
+Codes and dataset for "Accelerated Multisolvent Prediction for Aqueous Stable Halide Perovskite Materials Yiru Huang, Shenyue Li, and Lei Zhang*. ACS Appl. Mater. Interfaces, 2023. https://doi.org/10.1021/acsami.3c09507 "
 
 预测提升钙钛矿MAPbI3在水中稳定性的多元溶剂分子，使用二分类
 
